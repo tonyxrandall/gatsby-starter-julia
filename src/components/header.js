@@ -77,8 +77,8 @@ const Header = ({ siteTitle }) => (
     <Content>
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
-        <NavLink to="/blog">Blog</NavLink>
-        <TwitterLink href="https://twitter.com/tonyxrandall">Twitter</TwitterLink>
+        <NavLink to="/blog">blog</NavLink>
+        <TwitterLink href="https://twitter.com/tonyxrandall">twitter</TwitterLink>
       </p>
     </Content>
   </SiteHeader>
