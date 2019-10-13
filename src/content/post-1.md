@@ -1,5 +1,5 @@
 ---
-title: "Example Title"
+title: "This is a test"
 date: "2019-03-17"
 draft: false
 path: "/blog/example-title"
