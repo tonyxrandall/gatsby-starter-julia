@@ -35,7 +35,7 @@ const NavLink = styled(Link)`
   }
 `
 
-const TwitterLink = styled.a`
+const GitHubLink = styled.a`
   color: black;
   margin-left: 15px;
   text-decoration: none;
@@ -78,7 +78,7 @@ const Header = ({ siteTitle }) => (
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
-        <TwitterLink href="https://twitter.com/tonyxrandall">Twitter</a>
+        <GitHubLink href="https://twitter.com/tonyxrandall">Twitter</a>
       </p>
     </Content>
   </SiteHeader>
