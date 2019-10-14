@@ -7,6 +7,7 @@ const NotFoundPage = () => (
   <Layout>
     <SEO title="Dang." />
     <h1>404. Bummer.</h1>
+     <img src="https://i.imgur.com/ZlUUWAf.gif">
     <p>
     <img src="https://i.imgur.com/ZlUUWAf.gif">
   
